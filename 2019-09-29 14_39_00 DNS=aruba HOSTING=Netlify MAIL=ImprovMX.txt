@@ -1,0 +1,31 @@
+//A
+//HostName	IPAddress
+A	localhost	127.0.0.1
+A		104.198.14.52
+
+
+//AAAA
+//HostName	IPV6Address
+
+
+//TXT
+//Value	HostName
+
+
+//MX
+MX	mx1.improvmx.com	10
+
+
+//CNAME
+//HostName	AliasName
+CNAME	www	daniele-lolli-uncledan-identity.netlify.com.
+
+
+//NS
+//NameServer	IPAddress
+
+
+//SRV
+//Service	Protocol	Priority	Weight	Port	Target
+
+

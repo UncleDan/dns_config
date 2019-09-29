@@ -1,0 +1,12 @@
+<select name="alias" size=10 class="modulo_campi">
+<option name="alias" value="webmaster">webmaster@uncledan.it -> uncledan74@gmail.com (Esterno)</option>
+<option name="alias" value="postmaster">postmaster@uncledan.it -> uncledan74@gmail.com (Esterno)</option>
+<option name="alias" value="uncledan">uncledan@uncledan.it -> uncledan74@gmail.com (Esterno)</option>
+<option name="alias" value="coach.dan">coach.dan@uncledan.it -> uncledan74@gmail.com (Esterno)</option>
+<option name="alias" value="daniele.lolli">daniele.lolli@uncledan.it -> uncledan74@gmail.com (Esterno)</option>
+<option name="alias" value="dan">dan@uncledan.it -> uncledan74@gmail.com (Esterno)</option>
+<option name="alias" value="danielelolli">danielelolli@uncledan.it -> uncledan74@gmail.com (Esterno)</option>
+<option name="alias" value="info">info@uncledan.it -> uncledan74@gmail.com (Esterno)</option>
+<option name="alias" value="vanna.musconi">vanna.musconi@uncledan.it -> vanna.musconi@gmail.com (Esterno)</option>
+<option name="alias" value="test">test@uncledan.it -> uncledan.it (POP locale)</option>
+</select>

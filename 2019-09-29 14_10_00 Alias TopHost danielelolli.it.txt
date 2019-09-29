@@ -1,0 +1,41 @@
+<select name="alias" size=10 class="modulo_campi">
+<option name="alias" value="danielelolli.it">danielelolli.it@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="info">info@danielelolli.it -> danielelolli.it (POP locale)</option>
+<option name="alias" value="webmaster">webmaster@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="postmaster">postmaster@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="posta">posta@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="basket">basket@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="paypal">paypal@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="iliad">iliad@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="baskin">baskin@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="arcaplanet">arcaplanet@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="eurosport">eurosport@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="twitter">twitter@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="tplink">tplink@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="ikea">ikea@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="poste">poste@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="hertz">hertz@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="mps">mps@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="jeep">jeep@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="ninite">ninite@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="leroymerlin">leroymerlin@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="vodafonewifi">vodafonewifi@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="vodawifi1">vodawifi1@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="wind">wind@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="sisal">sisal@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="oneplus">oneplus@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="findomestic">findomestic@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="weback">weback@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="mydao">mydao@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="assistenza">assistenza@danielelolli.it -> danielelolli.it (POP locale)</option>
+<option name="alias" value="zuluru">zuluru@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="zalando">zalando@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="turnkey">turnkey@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="bitbucket">bitbucket@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="github">github@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="infinity">infinity@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="photosi">photosi@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="zooplus">zooplus@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="unsplash">unsplash@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+<option name="alias" value="amazon">amazon@danielelolli.it -> danielelolli74@gmail.com (Esterno)</option>
+</select>
